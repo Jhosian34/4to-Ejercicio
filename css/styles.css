@@ -14,8 +14,8 @@ body {
 header,
 nav,
 main {
-    text-align: justify;
-    line-height: 1.5;
+    /* text-align: justify; */
+    line-height: 1.1;
 }
 
 .padre {
@@ -67,12 +67,6 @@ p {
 .title {
     background-color: rgb(95, 65, 25);
     color: antiquewhite;
-}
-
-.circle {
-    list-style: circle;
-    margin: 0px 85px;
-
 }
 
 .celeste {
